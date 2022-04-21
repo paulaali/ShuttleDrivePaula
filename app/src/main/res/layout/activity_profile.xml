@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".auth.ProfileActivity"
+    android:orientation="vertical"
+    android:padding="20dp">
+
+    <ImageView
+        android:id="@+id/homeBn"
+        android:layout_width="47dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="start|top"
+        android:src="@drawable/home"
+        app:tint="@color/colorAccent" />
+
+    <ImageView
+        android:layout_width="wrap_content"
+
+        android:layout_height="181dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="100dp"
+        android:src="@drawable/bn"
+        android:layout_marginBottom="20dp"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:text="Shuttle buddy"
+        style="@style/TextAppearance.AppCompat.Caption"
+        android:fontFamily="@font/gotham"
+        android:layout_gravity="center"/>
+
+    <TextView
+        android:id="@+id/email_tv"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Email"
+        style="@style/TextAppearance.AppCompat.Body1"
+        android:fontFamily="@font/gotham"
+        android:layout_gravity="center"/>
+    <Button
+        android:id="@+id/logout_bn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Logout"
+        android:textAllCaps="false"
+        android:fontFamily="@font/gotham"
+        android:layout_gravity="center"/>
+</LinearLayout>

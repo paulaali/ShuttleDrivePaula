@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">Shuttle Drive</string>
+    <!--    Login Fragments-->
+    <string name="passwordLogin">Password</string>
+    <string name="usernameLogin">Username</string>
+    <string name="buttonRegisterLogin">Register</string>
+    <string name="buttonLogin">Login</string>
+    <string name="forgotPasswordLogin">Forgot Password</string>
+    <string name="signInLogin">Sign In</string>
+    <string name="signInMessageLogin">Welcome to the new World</string>
+
+    <!--    Register Fragments-->
+    <string name="signUpMessageRegister">Welcome to the new World</string>
+    <string name="referralsRegister">Referrals</string>
+    <string name="usernameRegister">Username</string>
+    <string name="emailRegister">Email</string>
+    <string name="phoneRegister">Phone</string>
+    <string name="passwordRegister">Password</string>
+    <string name="buttonRegister">Register</string>
+    <string name="signUpRegister">Sign Up</string>
+    <string name="skip_intro">skip</string>
+    <string name="next">next</string>
+    <string name="title_activity_swipe_buz_info">ShuttleDriveGH</string>
+    <string name="description_text" />
+    <string name="title_text" />
+    <string name="name">paula</string>
+    <string name="email">paulawakabi@gmail.com</string>
+    <string name="openDrawer">Open</string>
+    <string name="closeDrawer">Close</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="signup_prompt">Don\'t Have Account ? SignUp Now</string>
+    <string name="login">Login</string>
+    <string name="loginHead">Welcome Passenger</string>
+    <string name="login_prompt">Have an account already ? Sign In Instead!</string>
+    <string name="signup">SignUp</string>
+    <string name="hey_shuttle_buddy">Hey, Shuttle Drive</string>
+    <string name="pregnant">pregnant</string>
+</resources>

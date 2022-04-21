@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "182446164503",
+    "project_id": "shuttle-drive-e1f6a",
+    "storage_bucket": "shuttle-drive-e1f6a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:182446164503:android:e18789e4b0dc53f8bbea52",
+        "android_client_info": {
+          "package_name": "com.ispace.shuttledrive"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "182446164503-fig1bfktvdnjvifgkq4t1eqt53vpfncl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwGIM_uvD9gphlcAjqtGuvwhMB6VziB-M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "182446164503-fig1bfktvdnjvifgkq4t1eqt53vpfncl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
